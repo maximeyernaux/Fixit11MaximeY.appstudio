@@ -64,6 +64,14 @@
             "mobileNav", 
             "mobileNav.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Form1", 
+            "Form1.json"
+          ]
         }
       ], 
       "configxml": null, 
@@ -80,7 +88,7 @@
       "exetitle": "", 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "loginCU", 
+      "firstform": "mobileNav", 
       "fontFamily": "system", 
       "height": "", 
       "homescreenTitle": "", 
